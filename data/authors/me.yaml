@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Timothy En Haw Chan
+  given: Timothy En Haw
+  family: Chan
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
@@ -13,74 +13,86 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Scientist - Biotech Editor
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Timothy En Haw Chan is a scientist working on understanding epigenetics regulation in cancer and cell signalling, focuses on the interplay of external stimulus to cellular epigenetic regulation. Expertise in information curation, data analysis and synthesise idea. Passionate to summarize discoveries, biotech industry development and communicating science in biomedical field. He lived in Malaysia, Taiwan, Germany and traveled to more than 50 countries. Other than research, he is an amateur writer and science outreach educator.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Max Planck Insitute of Immunobiology and Epigenetics
+    url: https://www.ie-freiburg.mpg.de/person/95279/2342
+  - name: German Cancer Research Center DKFZ
+    url: https://dktk.dkfz.de/en/research/dktk-researchers/timmers-group/
+
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:timothykoala@gmail.com
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://x.com/timothykoala
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/timothykoala
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/timothychaneh
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=Z_-9Np8AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-2456-9336
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Epigenetics
+  - Cancer Biology
+  - Signaling Transduction
+  - Synthetic Biology
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Biology
+    institution: Max Planck IMPRS-IEM PhD Program & University of Freiburg, Germany
+    start: 2018-09-01
+    end: 2025-12-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers.
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: Read Info
+      url: https://www.ie-freiburg.mpg.de/person/95279/2342
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS Biomedical Sciences
+    institution: Chang Gung University, Taiwan
+    start: 2016-09-01
+    end: 2018-07-31
+    summary: |
+Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology
+Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab.
+Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.
+
+  - degree: BS Biomedical Sciences
+    institution: Chang Gung University, Taiwan
+    start: 2012-09-01
+    end: 2016-06-28
+    summary: |
+Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences
+Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD
+First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters)
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: IMPRS PhD Researcher
+    org: German Cancer Consortium DKTK, German Cancer Research Center DKFZ, Germany
+    start: 2019-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Working on functional analysis of epigenetic factor in control of cancer cell signaling by multi-omics integration.
+Experienced with CRISPR editing, epigenetics, transcriptional experiments and data analysis, including RNA-Seq, CUT&RUN, CUT&Tag, ChIP-seq, ATAC-seq, Hi-C.
+Implementing and optimizing CRISPR editing and RNA-seq data analysis workflow for the lab.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Contributing Editor and Science writer
+    org: The Investigator Taiwan, Taiwan
+    start: 2015-09-01
+    end: 2023-02-28
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Contributing Editor and writer about recent biomedical research. Portfolio: investigator.tw/author/id003/
+As former editor-in-chief (Year 2017), leading the editorial team, performed strategic planning and project management on editorial workflow.
 
 skills:
   - name: Technical Skills
@@ -101,10 +113,10 @@ skills:
         level: 4
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
 
